@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jeffer A. Mendoza
+ * @author Jefersson Andres Mendoza Suarez
  */
 public class Ventana extends javax.swing.JFrame {
     Numero num;
